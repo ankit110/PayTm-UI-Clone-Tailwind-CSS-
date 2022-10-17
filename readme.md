@@ -4,7 +4,7 @@
 
 # 📌 ** Project Link 👇** 
 
-**[Paytm_UI_Clone]()**
+**[Paytm_UI_Clone](https://luminous-dragon-31ed06.netlify.app/)**
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
