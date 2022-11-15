@@ -8,7 +8,7 @@
 
 # 📌 ** Project Link 👇** 
 
-**[Paytm_UI_Clone]https://fancy-dango-dc95d8.netlify.app/)**
+**[Paytm_UI_Clone](https://fancy-dango-dc95d8.netlify.app/)**
 
 # 📌 This Project is given in **"JavaScript Full stack Web Development Bootcamp"** by iNeuron.
 
